@@ -17,6 +17,27 @@ hi i'm Randeep Singh
 🔗 Connect with Me
 📸 Instagram:[ @i.randeep_](https://www.instagram.com/i.randeep_/)
 💼 LinkedIn: linkedin.com/in/randeepsingh76
+🚀 Featured Projects
+🎓 Government College Mohali
+A student-friendly digital info portal for Shaheed Major Harminderpal Singh Govt. College, Mohali
+📘 Features: Academic info, announcements, resources, and fee structure tools
+🔗 View Repository
+
+🎧 MoodGroov – Mood-Based Music Experience
+An Apple Music–inspired dark-themed web app that generates playlists based on your mood
+🎨 Built with: React, Tailwind CSS, Framer Motion
+🌐 Live Preview | 📦 View Repository
+
+🖌️ CreativeFussion – Design Tools Hub
+A concept workspace for creative tools, UI/UX kits, and productivity assets
+🧠 Built with: React, Figma-inspired design elements
+📦 View Repository
+
+🔐 Instagram User Login Authentication Clone
+A frontend-auth clone of Instagram login with proper input validation & mobile responsiveness
+🔐 Focus: UI accuracy, field validation, login animations
+📦 View Repository
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.randeep_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/randeepsingh76/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ideepsaggu@icloud.com) 
